@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\lce.mis.api.IRepositories\lce.mis.api.IRepositories.csproj" />
+    <ProjectReference Include="..\lce.mis.api.IServices\lce.mis.api.IServices.csproj" />
+  </ItemGroup>
+
+</Project>
