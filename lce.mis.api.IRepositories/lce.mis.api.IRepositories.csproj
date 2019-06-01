@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\lce.mis.api.Entities\lce.mis.api.Entities.csproj" />
+    <ProjectReference Include="..\lce.mis.Provider\lce.mis.api.Provider.csproj" />
+  </ItemGroup>
+
+</Project>
